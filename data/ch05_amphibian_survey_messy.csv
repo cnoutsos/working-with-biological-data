@@ -1,0 +1,89 @@
+capture_id,date,species,sex,length_mm,mass_g,site,notes
+C001,01/05/2024,triturus cristatus,Female,118.1,20.6,Pond B ,recapture
+C002,09-May-2024,triturus cristatus,Female,134.7,20.7,Pond B,gravid
+C003,05/22/2024, rana temporaria,m,NA,28.4,pond a,gravid
+C004,10-May-2024,triturus cristatus,unknown,130.3mm,20.7,Pond A,juvenile
+C005,2024-05-10,triturus cristatus,female,129.1,22.0,pond a,
+C006,11-May-2024,Triturus cristatus,m,122.0mm,14.9,Pond B,recapture
+C007,20-May-2024,triturus cristatus,Female,NA,19.4,Pond A,
+C008,05/01/2024,Rana  temporaria,m,77.7,18.3,pond a,
+C009,05/21/2024,Bufo Bufo,f,109.8,45.0,Pond B ,gravid
+C010,2024-05-16,triturus cristatus,m,121.1,28.0,pond a,
+C011,05-May-2024,T. cristatus,M,109.8mm,17.2,Pond B ,gravid
+C012,05/07/2024,R. temporaria,m,73.9mm,22.4, Pond A,
+C013,2024-05-02,B. bufo,Female,81.9mm,33.8, Pond A,
+C014,05/18/2024,B. bufo,Male,89.6,49.3,Pond B,gravid
+C015,2024-05-11,Triturus cristatus,Male,105.2 mm,17.9,Pond B,
+C016,05/23/2024,Rana temporaria,male,78.0,20.4,Pond A,
+C017,05/27/2024,R. temporaria,Female,65.6,25.2,Pond A,recapture
+C018,05/01/2024,triturus cristatus,F,127.2mm,19.2,Pond B,juvenile
+C019,13-May-2024,Bufo Bufo,?,93.1,36.9,Pond B,juvenile
+C020,01/05/2024, rana temporaria,f,68.4 mm,25.2,pond a,
+C021,24-May-2024,B. bufo,M,90.1,32.5,pond a,
+C022,2024-05-11,R. temporaria,female,68.3,26.1,Pond B ,juvenile
+C023,2024-05-09,B. bufo,Male,95.9,41.8,Pond A,recapture
+C024,22-May-2024,R. temporaria,Male,85.5 mm,17.9,Pond B ,
+C025,2024-05-24,T. cristatus,female,133.2,16.9,Pond B ,recapture
+C026,09-May-2024,bufo bufo ,male,101.3mm,,pond a,
+C027,02-May-2024,bufo bufo ,male,75.2,42.6,Pond A,
+C028,2024-05-19, rana temporaria,M,96.2,20.6,Pond B,gravid
+C029,10-May-2024,Rana temporaria,m,82.2,26.9,pond a,
+C030,2024-05-09,bufo bufo ,unknown,101.4mm,40.3,Pond B ,recapture
+C031,22-May-2024,triturus cristatus,m,144.1,14.9, Pond A,recapture
+C032,26-May-2024,Triturus cristatus,NA,122.0,19.9, Pond A,
+C033,17-May-2024,Rana temporaria,f,77.2,23.6,Pond B,
+C034,03-May-2024,Rana  temporaria,f,70.2 mm,35.4,Pond B,juvenile
+C035,16/05/2024,Triturus cristatus,male,119.0 mm,18.8,Pond B ,juvenile
+C036,24-May-2024,Rana temporaria,m,67.7 mm,28.0,pond a,gravid
+C037,01/05/2024, rana temporaria,Male,70.9,25.3,Pond B,recapture
+C038,05/16/2024,R. temporaria,M,71.7,23.7,Pond B ,
+C039,05/10/2024,Bufo bufo,f,78.4,,Pond B,
+C040,2024-05-20,Bufo bufo,F,97.6,37.1, Pond A,juvenile
+C041,05/20/2024,bufo bufo ,,100.5mm,44.4,Pond B ,gravid
+C042,06/05/2024,Bufo bufo,m,90.0,"45,5",Pond B ,
+C043,16/05/2024,T. cristatus,m,115.8,17.9,Pond B ,
+C044,20/05/2024,T. cristatus,?,128.1 mm,24.5,Pond A,
+C045,2024-05-23, rana temporaria,Male,94.7,16.1,Pond B ,
+C046,07-May-2024, rana temporaria,?,61.8,17.2, Pond A,
+C047,2024-05-08,bufo bufo ,M,104.4mm,46.4,pond a,recapture
+C048,05/21/2024,Bufo Bufo,F,91.2,35.1,Pond B ,
+C049,05/18/2024,B. bufo,f,105.0mm,32.4, Pond A,juvenile
+C050,2024-05-16,triturus cristatus,Female,119.3,16.8,Pond B,
+C051,11/05/2024,Triturus cristatus,NA,120.7mm,22.4,Pond A,juvenile
+C052,05/05/2024,bufo bufo ,f,87.3,, Pond A,
+C053,11/05/2024,Bufo bufo,male,94.8,40.5,Pond B ,recapture
+C054,2024-05-22,Rana temporaria,female,54.9,24.6,Pond A,
+C055,19/05/2024,Triturus cristatus,female,121.4,10.4,Pond A,recapture
+C056,05/14/2024,Triturus cristatus,Male,119.1 mm,19.4,Pond A,juvenile
+C057,2024-05-03,triturus cristatus,?,133.4,23.5,Pond A,
+C058,13/05/2024,B. bufo,m,84.5,43.6, Pond A,recapture
+C059,2024-05-16,Bufo Bufo,?,88.6,44.6,Pond B ,juvenile
+C060,05/11/2024,triturus cristatus,m,124.3mm,17.8,Pond B ,juvenile
+C061,05/03/2024,triturus cristatus,F,113.4,20.4,Pond B ,juvenile
+C062,25-May-2024,R. temporaria,Female,71.7 mm,25.7, Pond A,gravid
+C063,05/06/2024,Triturus cristatus,Male,,19.3,Pond A,juvenile
+C064,2024-05-09,triturus cristatus,female,118.2 mm,13.9,pond a,
+C065,2024-05-06,Rana  temporaria,Male,NA,16.9, Pond A,
+C066,16/05/2024,triturus cristatus,F,110.5,18.8,Pond B,juvenile
+C067,2024-05-22,R. temporaria,M,70.6,17.5,Pond B,juvenile
+C068,24-May-2024,Bufo bufo,f,94.2,,pond a,
+C069,05/17/2024,bufo bufo ,male,96.9,40.0,pond a,recapture
+C070,2024-05-07,Bufo Bufo,M,,38.6,pond a,juvenile
+C071,2024-05-17,R. temporaria,Male,73.0,17.9,Pond B,
+C072,2024-05-26,bufo bufo ,male,NA,,Pond A,gravid
+C073,2024-05-16,Bufo bufo,Female,80.9,41.0,Pond A,
+C074,05/10/2024, rana temporaria,m,53.6,30.2,Pond B ,gravid
+C075,17/05/2024,R. temporaria,F,74.7mm,"20,0",Pond B ,recapture
+C076,06-May-2024,Bufo Bufo,female,99.3mm,37.8,pond a,
+C077,2024-05-25,T. cristatus,female,112.4,24.8,Pond A,
+C078,09/05/2024,Triturus cristatus,unknown,123.7,21.6,Pond B,gravid
+C079,08/05/2024,Triturus cristatus,F,127.9,15.4,pond a,
+C080,05/10/2024,Bufo bufo,female,83.4mm,40.3,pond a,juvenile
+C081,05/02/2024,Bufo bufo,F,92.1,43.6,pond a,
+C082,2024-05-13,bufo bufo ,male,97.4,45.4, Pond A,gravid
+C083,05/01/2024,Bufo Bufo,female,,"41,4",Pond A,
+C084,2024-05-24,triturus cristatus,female,117.8 mm,17.3,pond a,recapture
+C085,10/05/2024,Bufo Bufo,m,96.2,41.0,Pond A,
+C086,04/05/2024,Rana  temporaria,M,65.6,22.0,Pond B,gravid
+C005,2024-05-10,triturus cristatus,female,129.1,22.0,pond a,
+C020,01/05/2024, rana temporaria,f,68.4 mm,25.2,pond a,

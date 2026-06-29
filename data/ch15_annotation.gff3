@@ -1,0 +1,34 @@
+##gff-version 3
+##sequence-region chr2 1 15000
+chr2	practice	gene	800	3200	.	+	.	ID=gene:PRAC1;Name=PRAC1
+chr2	practice	mRNA	800	3200	.	+	.	ID=transcript:PRAC1.1;Parent=gene:PRAC1
+chr2	practice	exon	800	1280	.	+	.	Parent=transcript:PRAC1.1
+chr2	practice	CDS	800	1280	.	+	0	Parent=transcript:PRAC1.1
+chr2	practice	exon	1760	2240	.	+	.	Parent=transcript:PRAC1.1
+chr2	practice	CDS	1760	2240	.	+	0	Parent=transcript:PRAC1.1
+chr2	practice	exon	2720	3200	.	+	.	Parent=transcript:PRAC1.1
+chr2	practice	CDS	2720	3200	.	+	0	Parent=transcript:PRAC1.1
+chr2	practice	gene	4500	6100	.	-	.	ID=gene:PRAC2;Name=PRAC2
+chr2	practice	mRNA	4500	6100	.	-	.	ID=transcript:PRAC2.1;Parent=gene:PRAC2
+chr2	practice	exon	4500	5033	.	-	.	Parent=transcript:PRAC2.1
+chr2	practice	CDS	4500	5033	.	-	0	Parent=transcript:PRAC2.1
+chr2	practice	exon	5566	6100	.	-	.	Parent=transcript:PRAC2.1
+chr2	practice	CDS	5566	6100	.	-	0	Parent=transcript:PRAC2.1
+chr2	practice	gene	7200	9800	.	+	.	ID=gene:PRAC3;Name=PRAC3
+chr2	practice	mRNA	7200	9800	.	+	.	ID=transcript:PRAC3.1;Parent=gene:PRAC3
+chr2	practice	exon	7200	7571	.	+	.	Parent=transcript:PRAC3.1
+chr2	practice	CDS	7200	7571	.	+	0	Parent=transcript:PRAC3.1
+chr2	practice	exon	7942	8313	.	+	.	Parent=transcript:PRAC3.1
+chr2	practice	CDS	7942	8313	.	+	0	Parent=transcript:PRAC3.1
+chr2	practice	exon	8684	9055	.	+	.	Parent=transcript:PRAC3.1
+chr2	practice	CDS	8684	9055	.	+	0	Parent=transcript:PRAC3.1
+chr2	practice	exon	9426	9800	.	+	.	Parent=transcript:PRAC3.1
+chr2	practice	CDS	9426	9800	.	+	0	Parent=transcript:PRAC3.1
+chr2	practice	gene	11000	13200	.	-	.	ID=gene:PRAC4;Name=PRAC4
+chr2	practice	mRNA	11000	13200	.	-	.	ID=transcript:PRAC4.1;Parent=gene:PRAC4
+chr2	practice	exon	11000	11440	.	-	.	Parent=transcript:PRAC4.1
+chr2	practice	CDS	11000	11440	.	-	0	Parent=transcript:PRAC4.1
+chr2	practice	exon	11880	12320	.	-	.	Parent=transcript:PRAC4.1
+chr2	practice	CDS	11880	12320	.	-	0	Parent=transcript:PRAC4.1
+chr2	practice	exon	12760	13200	.	-	.	Parent=transcript:PRAC4.1
+chr2	practice	CDS	12760	13200	.	-	0	Parent=transcript:PRAC4.1
